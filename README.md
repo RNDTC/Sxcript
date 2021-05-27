@@ -13,4 +13,4 @@ as well as syntax help messages in response to the mouse hovering over keywords 
 It supports text search and replace, and compiler error highlighting including error message display upon mouse hovering over a highlighted error. 
 Line numbers and collapse/expansion of code sections are not supported.
 
-Usage: Download the .xojo_binary_project to your system and unzip the pics.zip file into the same directory.
+Usage: Download the .xojo_binary_project to your system and unzip the icons.zip file into the same directory.
